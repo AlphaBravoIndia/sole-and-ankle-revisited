@@ -38,6 +38,7 @@ const CrumbLink = styled.a`
 `;
 
 const Wrapper = styled.nav`
+width: 248px;
   display: flex;
   font-size: 0.875rem;
 `;
